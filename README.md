@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 Coding in Peace :upside_down_face: <br> <br>
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
 # Hello, there!
-My name is :slightly_smiling_face: Sathwik and I'm a software developer/Genesys Cloud Engineer. I'm from India, living in Hyderabad and currently working at Kroll.<br>  
+I am :slightly_smiling_face: Sathwik, software developer/Genesys Cloud Engineer, from India, living in Hyderabad and currently working at Kroll.<br>  
 - 🔭 I’m currently working on Python, Java <br>
 - 🌱 I’m currently learning Machine Learning <br>
 - 👯 I’m looking to collaborate on AI/ML projects <br>
