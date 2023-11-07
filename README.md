@@ -12,6 +12,7 @@ My name is :slightly_smiling_face: Sathwik and I'm a software developer/Genesys 
 - 🌱 I’m currently learning Machine Learning <br>
 - 👯 I’m looking to collaborate on AI/ML projects <br>
 - 😄 Pronouns: He/ Him <br>
+- ⚡ Fun Fact ⚡- How to be 'Always Happy' ? == Slice the ❎ Always ❎  and you are 😃 Happy 😃 .  
 
 ### Languages
 
